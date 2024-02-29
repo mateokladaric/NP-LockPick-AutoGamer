@@ -2,9 +2,9 @@
 Haven't used it, can't tell you if it works.
 
 #How it Works - 
-Screenshots
-Solves
-Clicks left right space stuff
+Screenshots,
+Solves,
+Clicks left right space stuff,
 actually solves it
 
 #Probabal Issues - 
